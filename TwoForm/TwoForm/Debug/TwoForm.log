@@ -1,1 +1,6 @@
-﻿
+﻿  Form1.cpp
+  Form2.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...
+  Form1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TwoForm.vcxproj -> C:\Users\JasonA6\Desktop\TwoForm\TwoForm\Debug\TwoForm.exe
