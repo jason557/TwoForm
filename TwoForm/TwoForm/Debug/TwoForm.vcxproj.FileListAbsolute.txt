@@ -1,4 +1,4 @@
-C:\Users\JasonA6\Desktop\TwoForm\TwoForm\TwoForm\Debug\TwoForm.vcxproj.AssemblyReference.cache
-C:\Users\JasonA6\Desktop\TwoForm\TwoForm\TwoForm\Debug\TwoForm.Form1.resources
-C:\Users\JasonA6\Desktop\TwoForm\TwoForm\TwoForm\Debug\TwoForm.Form2.resources
-C:\Users\JasonA6\Desktop\TwoForm\TwoForm\TwoForm\Debug\TwoForm.vcxproj.GenerateResource.cache
+C:\Users\JasonA6\Downloads\TwoForm\TwoForm\Debug\TwoForm.vcxproj.AssemblyReference.cache
+C:\Users\JasonA6\Downloads\TwoForm\TwoForm\Debug\TwoForm.Form1.resources
+C:\Users\JasonA6\Downloads\TwoForm\TwoForm\Debug\TwoForm.Form2.resources
+C:\Users\JasonA6\Downloads\TwoForm\TwoForm\Debug\TwoForm.vcxproj.GenerateResource.cache
