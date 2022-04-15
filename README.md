@@ -3,4 +3,5 @@
 - 🌱 It demo how to tramsfer data between two forms by C++ program.
 - 💞️ Using the Delegate and Event transfer data form form2 back to form1
 - 📫 How to reach me jason.fintech.2018@gmail.com
-- 👀 If errors happen, just Clean and rebuild the solution
+- 👀 If errors happen, just Clean and rebuild the solution. watch Readme.mkv
+
